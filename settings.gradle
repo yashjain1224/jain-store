@@ -1,0 +1,2 @@
+rootProject.name='Jain Store'
+include ':app'

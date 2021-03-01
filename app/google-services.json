@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87425839712",
+    "firebase_url": "https://jain-store-6d07b.firebaseio.com",
+    "project_id": "jain-store-6d07b",
+    "storage_bucket": "jain-store-6d07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87425839712:android:91eb31aff38adb4ae00905",
+        "android_client_info": {
+          "package_name": "com.example.jainstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87425839712-fhjopvh28ocbv25mad8vkr74vuh9nq2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ_PdxgtAwwhhOi9CWUeH76T617MgnYH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87425839712-fhjopvh28ocbv25mad8vkr74vuh9nq2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
